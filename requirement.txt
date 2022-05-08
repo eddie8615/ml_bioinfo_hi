@@ -11,6 +11,7 @@ cachetools==5.0.0
 certifi==2021.10.8
 cffi==1.15.0
 charset-normalizer==2.0.12
+cloudpickle==2.0.0
 cycler==0.11.0
 debugpy==1.5.1
 decorator==5.1.1
@@ -26,6 +27,8 @@ google-pasta==0.2.0
 grpcio==1.44.0
 h5py==3.6.0
 idna==3.3
+imbalanced-learn==0.9.0
+imblearn==0.0
 importlib-metadata==4.11.3
 importlib-resources==5.4.0
 ipykernel==6.9.2
@@ -46,6 +49,7 @@ keras==2.8.0
 Keras-Preprocessing==1.1.2
 kiwisolver==1.4.0
 libclang==13.0.0
+llvmlite==0.38.0
 lxml==4.8.0
 Markdown==3.3.6
 MarkupSafe==2.1.1
@@ -57,7 +61,8 @@ nbconvert==6.4.4
 nbformat==5.2.0
 nest-asyncio==1.5.4
 notebook==6.4.10
-numpy==1.22.3
+numba==0.55.1
+numpy==1.21.0
 oauthlib==3.2.0
 opt-einsum==3.3.0
 packaging==21.3
@@ -91,7 +96,9 @@ rsa==4.8
 scikit-learn==1.0.2
 scipy==1.8.0
 Send2Trash==1.8.0
+shap==0.40.0
 six==1.16.0
+slicer==0.0.7
 soupsieve==2.3.1
 stack-data==0.2.0
 tensorboard==2.8.0
